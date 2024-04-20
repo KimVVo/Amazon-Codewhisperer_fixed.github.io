@@ -10,12 +10,11 @@ header {
 
 nav {
     float: right;
-    background-color: #E6E6FA;
-
+    background-color: lightblue;;
 }
 
 nav a {
-    color: navy;
+    color: black;
 }
 
 nav ul li {
