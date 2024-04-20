@@ -1,0 +1,58 @@
+header {
+    background-color: royalblue;
+    color: white;
+    padding: 20px;
+}
+
+.logo h1 {
+    display: inline-block;
+}
+
+nav {
+    float: right;
+}
+
+nav ul li {
+    display: inline-block;
+    margin-left: 20px;;
+}
+
+#hero {
+    text-align: center;
+    padding: 50px;
+
+}
+
+#hero h2 {
+    font-size: 3e;
+}
+
+#products {
+    display: flex;
+}
+
+.product {
+    width: 30%;
+    margin: 20px;
+    text-align: center;
+}
+
+.product img {
+    width: 200px;
+}
+
+button {
+    background-color: royalblue;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+footer {
+    background-color: royalblue;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
