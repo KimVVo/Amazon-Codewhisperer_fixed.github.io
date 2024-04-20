@@ -10,6 +10,7 @@ header {
 
 nav {
     float: right;
+    background_color: white;
 }
 
 nav a {
